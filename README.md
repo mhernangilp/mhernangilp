@@ -5,7 +5,12 @@
 
 - 📫 How to reach me **mhernangilp@gmail.com**
 
-![libft](https://user-images.githubusercontent.com/123759990/222992943-816974fc-0048-4e9d-a50f-ddece0633b42.png)
+<p align="center"><a href="[https://www.42sp.org.br/](https://www.42madrid.com/)" target="_blank"><img src="https://user-images.githubusercontent.com/123759990/222993105-b526dd78-9e99-411e-b38b-5b0d6922eb74.jpg""></a></p>
+
+<div align="center" style="display: inline_block">
+  <a href="https://github.com/mhernangilp/Libft" target="_blank"> <img align="center" alt="Libft"  height="60" src="https://user-images.githubusercontent.com/123759990/222992943-816974fc-0048-4e9d-a50f-ddece0633b42.png"> </a>
+  <a href="https://github.com/mhernangilp/get_next_line" target="_blank"><img align="center" alt="get_next_line"  height="60" src="https://user-images.githubusercontent.com/123759990/222993022-6acab917-6074-4014-a84a-dc94e7bb547d.png">  </a>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
