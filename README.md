@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
 <h3 align="center">Future software engineer at 42 madrid and Universidad Rey Juan Carlos</h3>
-
-- 🔭 I’m currently working on **ft_printf**
-
-- 📫 How to reach me **mhernangilp@gmail.com**
-- 
 <h3 align="left">Proyects at:</h3>
 <p align="center"><a style="height: 100px; width: 220px" href="https://www.42madrid.com/" target="_blank"><img src="https://user-images.githubusercontent.com/123759990/222993404-2dc071b5-56c4-4f94-8ba0-2dfb486e93e3.png""></a></p>
 <div align="center" style="display: inline_block">
