@@ -63,4 +63,4 @@
 ***
   
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhernangilp&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="mhernangilp" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhernangilp&show_icons=true&theme=transparent" alt="mhernangilp" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhernangilp&theme=tokyonight&hide_border=true" alt="mhernangilp" /></p>
