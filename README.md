@@ -6,8 +6,12 @@
 <h3 align="left">Proyects at:</h3>
 <p align="center"><a href="https://www.42madrid.com/" target="_blank"><img height="100" src="https://user-images.githubusercontent.com/123759990/222996320-ba730dc4-b0dc-4f5c-aabd-d077e3b2b638.png""></a></p>
 <div align="center" style="display: inline_block">
-  <a href="https://github.com/mhernangilp/Libft" target="_blank"> <img align="center" alt="Libft"  height="100" src="https://user-images.githubusercontent.com/123759990/222992943-816974fc-0048-4e9d-a50f-ddece0633b42.png"> </a>
-  <a href="https://github.com/mhernangilp/get_next_line" target="_blank"><img align="center" alt="get_next_line"  height="100" src="https://user-images.githubusercontent.com/123759990/222993022-6acab917-6074-4014-a84a-dc94e7bb547d.png">  </a>
+  <a href="https://github.com/mhernangilp/Libft" target="_blank">
+    <img align="center" alt="Libft"  height="100" src="https://user-images.githubusercontent.com/123759990/222992943-816974fc-0048-4e9d-a50f-ddece0633b42.png">
+  </a>
+  <a href="https://github.com/mhernangilp/get_next_line" target="_blank">
+    <img align="center" alt="get_next_line"  height="100" src="https://user-images.githubusercontent.com/123759990/222993022-6acab917-6074-4014-a84a-dc94e7bb547d.png">
+  </a>
 </div>
 
 ***
@@ -63,5 +67,9 @@
   
 ***
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhernangilp&theme=tokyonight&show_icons=true&locale=en&hide_border=true&include_all_commits=true&count_private=true" alt="mhernangilp" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhernangilp&theme=tokyonight&hide_border=true" alt="mhernangilp" /></p>
+<p align="center">&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhernangilp&theme=tokyonight&show_icons=true&locale=en&hide_border=true&include_all_commits=true&count_private=true" alt="mhernangilp" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhernangilp&theme=tokyonight&hide_border=true" alt="mhernangilp" />
+</p>
