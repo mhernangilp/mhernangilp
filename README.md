@@ -23,6 +23,13 @@
 <a href = "mailto:mhernangilp@gmail.com"> <img align="center" alt="Gmail - mhernangilp@gmail.com" height="40" src="https://user-images.githubusercontent.com/123759990/222994251-7e585b2a-9a37-4822-aa98-5fed2a30cc58.png"></a>
 </p>
   
+  
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhernangilp&show_icons=true&locale=en&layout=compact" alt="mhernangilp" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhernangilp&show_icons=true&locale=en" alt="mhernangilp" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhernangilp&" alt="mhernangilp" /></p>
+  
 ***
   
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhernangilp&show_icons=true&locale=en" alt="mhernangilp" /></p>
