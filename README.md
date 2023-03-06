@@ -4,7 +4,7 @@
 ***
 
 <h3 align="left">Proyects at:</h3>
-<p align="center"><a href="https://www.42madrid.com/" target="_blank"><img src="https://user-images.githubusercontent.com/123759990/222995529-921afa38-f285-43c9-bcde-55b2385bc9b9.jpg""></a></p>
+<p align="center"><a href="https://www.42madrid.com/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/123759990/222995529-921afa38-f285-43c9-bcde-55b2385bc9b9.jpg""></a></p>
 <div align="center" style="display: inline_block">
   <a href="https://github.com/mhernangilp/Libft" target="_blank"> <img align="center" alt="Libft"  height="100" src="https://user-images.githubusercontent.com/123759990/222992943-816974fc-0048-4e9d-a50f-ddece0633b42.png"> </a>
   <a href="https://github.com/mhernangilp/get_next_line" target="_blank"><img align="center" alt="get_next_line"  height="100" src="https://user-images.githubusercontent.com/123759990/222993022-6acab917-6074-4014-a84a-dc94e7bb547d.png">  </a>
