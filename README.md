@@ -25,4 +25,4 @@
   
 ***
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhernangilp&show_icons=true&locale=en" alt="mhernangilp" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhernangilp&show_icons=true&locale=en" alt="mhernangilp" /></p>
