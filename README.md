@@ -19,7 +19,7 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://es.linkedin.com/in/marcos-hernangil-prats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcos hernangil prats" height="40"/></a>
+<a href="https://es.linkedin.com/in/marcos-hernangil-prats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcos hernangil prats" height="45"/></a>
 <a href = "mailto:mhernangilp@gmail.com"> <img align="center" alt="Gmail - mhernangilp@gmail.com" height="40" src="https://user-images.githubusercontent.com/123759990/222994251-7e585b2a-9a37-4822-aa98-5fed2a30cc58.png"></a>
 </p>
   
