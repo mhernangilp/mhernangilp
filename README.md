@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
-<h3 align="center">Future software engineer at 42 madrid and Universidad Rey Juan Carlos</h3>
+<h3 align="center">Software engineer student at 42 madrid and Universidad Rey Juan Carlos</h3>
 
 ***
 
