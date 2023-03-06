@@ -25,5 +25,5 @@
    
 ***
   
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhernangilp&show_icons=true&locale=en" alt="mhernangilp" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhernangilp&show_icons=true&theme=transparent" alt="mhernangilp" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhernangilp&" alt="mhernangilp" /></p>
