@@ -18,6 +18,9 @@
   <a href="https://github.com/mhernangilp/ft_printf" target="_blank">
     <img align="center" alt="get_next_line"  height="100" src="https://user-images.githubusercontent.com/123759990/230787654-f610615d-d974-41b7-877e-7827e9a5f22e.png">
   </a>
+  <a href="https://github.com/mhernangilp/so_long">
+    <img align="center" alt="so_long"  height="100" src="https://github.com/mhernangilp/so_long/assets/123759990/b3e80e20-da64-45ce-8345-981fe1e66f9f">
+  </a>
 </div>
 
 ***
