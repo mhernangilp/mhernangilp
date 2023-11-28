@@ -24,6 +24,9 @@
   <a href="https://github.com/mhernangilp/push_swap">
     <img align="center" alt="push_swap"  height="100" src="https://github.com/mhernangilp/mhernangilp/assets/123759990/8591cd9c-1c51-48e6-a77f-a47fb6989e16">
   </a>
+  <a href="https://github.com/mhernangilp/pipex">
+    <img align="center" alt="pipex"  height="100" src="https://github.com/mhernangilp/mhernangilp/assets/123759990/d6a8028b-a098-46a3-86e6-1923b0eac20c">
+  </a>
 </div>
 
 
