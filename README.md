@@ -21,6 +21,8 @@
   <a href="https://github.com/mhernangilp/so_long">
     <img align="center" alt="so_long"  height="100" src="https://github.com/mhernangilp/so_long/assets/123759990/b3e80e20-da64-45ce-8345-981fe1e66f9f">
   </a>
+</div>
+<div align="center" style="display: inline_block">
   <a href="https://github.com/mhernangilp/push_swap">
     <img align="center" alt="push_swap"  height="100" src="https://github.com/mhernangilp/mhernangilp/assets/123759990/8591cd9c-1c51-48e6-a77f-a47fb6989e16">
   </a>
@@ -29,6 +31,9 @@
   </a>
   <a href="https://github.com/mhernangilp/philo">
     <img align="center" alt="philo"  height="100" src="https://github.com/mhernangilp/mhernangilp/assets/123759990/e5772757-ea4f-44e3-80d1-9c4a3f6858e4">
+  </a>
+  <a href="https://github.com/mhernangilp/minishell">
+    <img align="center" alt="minishell"  height="100" src="https://github.com/mhernangilp/mhernangilp/assets/123759990/fa1483b4-f727-4aae-94d1-9549936226f0">
   </a>
 </div>
 
