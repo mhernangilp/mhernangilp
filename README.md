@@ -27,6 +27,9 @@
   <a href="https://github.com/mhernangilp/pipex">
     <img align="center" alt="pipex"  height="100" src="https://github.com/mhernangilp/mhernangilp/assets/123759990/d6a8028b-a098-46a3-86e6-1923b0eac20c">
   </a>
+  <a href="https://github.com/mhernangilp/philo">
+    <img align="center" alt="philo"  height="100" src="https://github.com/mhernangilp/mhernangilp/assets/123759990/e5772757-ea4f-44e3-80d1-9c4a3f6858e4">
+  </a>
 </div>
 
 
