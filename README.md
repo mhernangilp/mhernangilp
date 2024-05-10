@@ -35,6 +35,9 @@
   <a href="https://github.com/mhernangilp/minishell">
     <img align="center" alt="minishell"  height="100" src="https://github.com/mhernangilp/mhernangilp/assets/123759990/fa1483b4-f727-4aae-94d1-9549936226f0">
   </a>
+  <a href="https://github.com/mhernangilp/cub3D">
+    <img align="center" alt="minishell"  height="100" src="https://github.com/mhernangilp/mhernangilp/assets/123759990/307eb97f-f01b-472f-b425-38a726a4f8c5">
+  </a>
 </div>
 
 
