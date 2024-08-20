@@ -21,11 +21,11 @@
   <a href="https://github.com/mhernangilp/so_long">
     <img align="center" alt="so_long"  height="100" src="https://github.com/mhernangilp/so_long/assets/123759990/b3e80e20-da64-45ce-8345-981fe1e66f9f">
   </a>
-</div>
-<div align="center" style="display: inline_block">
   <a href="https://github.com/mhernangilp/push_swap">
     <img align="center" alt="push_swap"  height="100" src="https://github.com/mhernangilp/mhernangilp/assets/123759990/8591cd9c-1c51-48e6-a77f-a47fb6989e16">
   </a>
+</div>
+<div align="center" style="display: inline_block">
   <a href="https://github.com/mhernangilp/pipex">
     <img align="center" alt="pipex"  height="100" src="https://github.com/mhernangilp/mhernangilp/assets/123759990/d6a8028b-a098-46a3-86e6-1923b0eac20c">
   </a>
@@ -37,6 +37,9 @@
   </a>
   <a href="https://github.com/mhernangilp/cub3D">
     <img align="center" alt="minishell"  height="100" src="https://github.com/mhernangilp/mhernangilp/assets/123759990/307eb97f-f01b-472f-b425-38a726a4f8c5">
+  </a>
+  <a href="https://github.com/mhernangilp/NetPractice">
+    <img align="center" alt="net-practice"  height="100" src="https://github.com/user-attachments/assets/1f9cd7e3-40d1-47ab-be68-06d4b1212e47">
   </a>
 </div>
 
