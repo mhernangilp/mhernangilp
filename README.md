@@ -86,13 +86,6 @@
   </a> 
 </p>
 
-<h3 align="left">Mobile App Development:</h3>
-<p align="left">
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  </a>
-</p>
-
 <h3 align="left">Database:</h3>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
