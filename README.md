@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
-<h3 align="center">Software engineer student at Universidad Rey Juan Carlos and 42 Madrid</h3>
+<h3 align="center">Software engineer | 42 Madrid Student | Cybersecurity</h3>
 
 ***
 
@@ -139,10 +139,8 @@
 </p>
   
 ***
-  
-<p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhernangilp&theme=tokyonight&show_icons=true&locale=en&hide_border=true&include_all_commits=true&count_private=true" alt="mhernangilp" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhernangilp&theme=tokyonight&hide_border=true" alt="mhernangilp" />
-</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhernangilp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhernangilp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+</div>
