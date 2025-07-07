@@ -24,11 +24,11 @@
   <a href="https://github.com/mhernangilp/push_swap">
     <img align="center" alt="push_swap"  height="100" src="https://github.com/mhernangilp/mhernangilp/assets/123759990/8591cd9c-1c51-48e6-a77f-a47fb6989e16">
   </a>
-</div>
-<div align="center" style="display: inline_block">
   <a href="https://github.com/mhernangilp/pipex">
     <img align="center" alt="pipex"  height="100" src="https://github.com/mhernangilp/mhernangilp/assets/123759990/d6a8028b-a098-46a3-86e6-1923b0eac20c">
   </a>
+</div>
+<div align="center" style="display: inline_block">
   <a href="https://github.com/mhernangilp/philo">
     <img align="center" alt="philo"  height="100" src="https://github.com/mhernangilp/mhernangilp/assets/123759990/e5772757-ea4f-44e3-80d1-9c4a3f6858e4">
   </a>
@@ -43,6 +43,12 @@
   </a>
   <a href="https://github.com/mhernangilp/webserv">
     <img align="center" alt="webserv"  height="100" src="https://github.com/user-attachments/assets/0841351b-48a1-4881-862d-86633ebab10b">
+  </a>
+  <a href="https://github.com/mhernangilp/CPP_Modules">
+    <img align="center" alt="webserv"  height="100" src="https://github.com/user-attachments/assets/431595d5-9ae4-4751-b7d3-733653dd06bd">
+  </a>
+  <a href="https://github.com/mhernangilp/Inception">
+    <img align="center" alt="webserv"  height="100" src="https://github.com/user-attachments/assets/88d73d3a-b772-44d0-9ca9-792c0388c836">
   </a>
 </div>
 
